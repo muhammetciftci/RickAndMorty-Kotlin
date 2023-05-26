@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- THEME COLOR -->
+    <color name="theme_yellow">#FEE12B</color>
+    <color name="theme_green">#2BCB71</color>
+    <color name="theme_blue">#0074D9</color>
+    <color name="theme_blue_light">#4B0074D9</color>
+    <color name="theme_blue_light2">#486D91</color>
+    <color name="theme_turquoise">#42b4ca</color>
+    <color name="theme_orange">#FFA500</color>
+    <color name="theme_purple">#800080</color>
+    <color name="theme_gray_light">#207C7C7C</color>
+    <color name="theme_gray">#457C7C7C</color>
+    <color name="theme_textcolor_light">#636363</color>
+    <color name="theme_textcolor_daynight">#9f9f9f</color>
+
+    <color name="female_color">#ff99cc</color>
+    <color name="male_color">#7fbfff</color>
+    <color name="unkown_color">#ff7f7f</color>
+    <color name="genderless_color">#800080</color>
+
+
+</resources>
